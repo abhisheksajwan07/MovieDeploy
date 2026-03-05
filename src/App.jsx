@@ -11,7 +11,7 @@ import NotFound from "./Components/NotFound";
 import TvDetails from "./Components/TvDetails";
 import MovieDetails from "./Components/MovieDetails";
 import TvShows from "./Components/TvShows";
-import { PersonDetails } from "./Components/Persondetails";
+import { PersonDetails } from "./Components/PersonDetails";
 
 
 const App = () => {
